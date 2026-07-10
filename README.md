@@ -23,17 +23,17 @@ A comprehensive, end-to-end Python-based data engineering and business intellige
 
 ### 1. Sales vs. Profit Performance
 Evaluating total gross sales alongside bottom-line profit margins across different lines of business. While electronics drive significant volume, grocery operations capture the tightest optimization spread.
-![Sales vs Profit](<img width="1400" height="800" alt="Sales vs Profit" src="https://github.com/user-attachments/assets/6b002f9d-7ea3-4918-ad17-d7d8c21422fc" />
+![Sales vs Profit](<img width="1600" height="1000" alt="Sales vs Profit" src="https://github.com/user-attachments/assets/6b002f9d-7ea3-4918-ad17-d7d8c21422fc" />
 )
 
 ### 2. Regional Performance Matrix
 Mapping order distribution density (bar charts) directly against real-time profit margins (line charts) across core operating territories to pinpoint geographical variance.
-![Regional Performance](<img width="1400" height="800" alt="Regional Performance Matrix" src="https://github.com/user-attachments/assets/f847ff5e-ece1-4b60-bf2e-4fadfc5b3cf0" />
+![Regional Performance](<img width="1600" height="1000" alt="Regional Performance Matrix" src="https://github.com/user-attachments/assets/f847ff5e-ece1-4b60-bf2e-4fadfc5b3cf0" />
 )
 
 ### 3. Discount Decay Curve
 An operational analysis tracing the point of diminishing returns where promotional discount adjustments directly decay bottom-line profit performance.
-![Discount Decay Curve](<img width="1200" height="600" alt="Discount_decay_curve" src="https://github.com/user-attachments/assets/12ce4af7-5f03-46c2-b2fb-9dc77bc873f4" />
+![Discount Decay Curve](<img width="1600" height="1000" alt="Discount_decay_curve" src="https://github.com/user-attachments/assets/12ce4af7-5f03-46c2-b2fb-9dc77bc873f4" />
 )
 
 ---
