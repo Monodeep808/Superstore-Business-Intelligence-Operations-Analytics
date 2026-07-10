@@ -23,15 +23,18 @@ A comprehensive, end-to-end Python-based data engineering and business intellige
 
 ### 1. Sales vs. Profit Performance
 Evaluating total gross sales alongside bottom-line profit margins across different lines of business. While electronics drive significant volume, grocery operations capture the tightest optimization spread.
-![Sales vs Profit](images/sales_vs_profit.png)
+![Sales vs Profit](<img width="1400" height="800" alt="Sales vs Profit" src="https://github.com/user-attachments/assets/6b002f9d-7ea3-4918-ad17-d7d8c21422fc" />
+)
 
 ### 2. Regional Performance Matrix
 Mapping order distribution density (bar charts) directly against real-time profit margins (line charts) across core operating territories to pinpoint geographical variance.
-![Regional Performance](images/regional_performance.png)
+![Regional Performance](<img width="1400" height="800" alt="Regional Performance Matrix" src="https://github.com/user-attachments/assets/f847ff5e-ece1-4b60-bf2e-4fadfc5b3cf0" />
+)
 
 ### 3. Discount Decay Curve
 An operational analysis tracing the point of diminishing returns where promotional discount adjustments directly decay bottom-line profit performance.
-![Discount Decay Curve](images/discount_decay_curve.png)
+![Discount Decay Curve](<img width="1200" height="600" alt="Discount_decay_curve" src="https://github.com/user-attachments/assets/12ce4af7-5f03-46c2-b2fb-9dc77bc873f4" />
+)
 
 ---
 
@@ -52,3 +55,21 @@ Includes programmed algorithmic logic simulating smart warehouse operations:
 
 ---
 
+## 📊 Interactive Power BI Dashboard (`EDA Dashboard.pbix`)
+
+In addition to the programmatic Python analysis, an enterprise-grade interactive dashboard was engineered in **Power BI** to provide non-technical stakeholders with self-service business intelligence capabilities.
+
+### Key Dashboard Capabilities:
+*   **Dynamic Executive KPI Cards:** Real-time tracking of Total Revenue ($12.7M), Total Net Profit ($3.18M), and overall Profit Margin performance (25.02%).
+*   **Fulfillment Cross-Filtering:** Interactive matrix mapping order delivery statuses (*Delivered, Pending, Returned*) to isolate geographical friction points and regional supply chain backlogs.
+*   **Transactional Granularity:** Drill-down matrices tracking customer segmentation behavior against target product categories (Grocery, Electronics, Office Supplies, Furniture).
+
+### Dashboard Preview:
+
+1.Superstore Performmance Dahboard: (<img width="1335" height="750" alt="Screenshot 2026-07-09 115908" src="https://github.com/user-attachments/assets/f18f194a-9ea4-45b8-9cf7-d7591ab3b20f" />
+)
+2. Inventory and Supplier Dashboard: (<img width="1352" height="748" alt="Screenshot 2026-07-09 120344" src="https://github.com/user-attachments/assets/d30a2168-f1e8-41df-a7e0-595d1395ccf4" />
+)
+3. Customer Insights Dashboard: (<img width="1290" height="733" alt="Screenshot 2026-07-09 121152" src="https://github.com/user-attachments/assets/736eeb98-6c49-4fcf-90a2-3249e7659ac5" />
+)
+> 💡 **Note:** To interact with the live charts, filters, and slicers, download the `EDA Dashboard.pbix` file from the repository root and open it locally via Power BI Desktop.
