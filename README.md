@@ -23,18 +23,17 @@ A comprehensive, end-to-end Python-based data engineering and business intellige
 
 ### 1. Sales vs. Profit Performance
 Evaluating total gross sales alongside bottom-line profit margins across different lines of business. While electronics drive significant volume, grocery operations capture the tightest optimization spread.
-![Sales vs Profit] (<img width="1600" height="1000" alt="Sales vs Profit" src="https://github.com/user-attachments/assets/49b417ba-7289-4f29-a2d9-118037f5013e" />
-)
+![Sales vs Profit]: <img width="1200" height="600" alt="Sales vs Profit" src="https://github.com/user-attachments/assets/49b417ba-7289-4f29-a2d9-118037f5013e" />
+
 
 ### 2. Regional Performance Matrix
 Mapping order distribution density (bar charts) directly against real-time profit margins (line charts) across core operating territories to pinpoint geographical variance.
-![Regional Performance] (<img width="1600" height="1000" alt="Regional Performance Matrix" src="https://github.com/user-attachments/assets/bdcb3fd8-4291-4ed2-aaed-ec2689bdc352" />
-)
+![Regional Performance]: <img width="1200" height="600" alt="Regional Performance Matrix" src="https://github.com/user-attachments/assets/bdcb3fd8-4291-4ed2-aaed-ec2689bdc352" />
+
 
 ### 3. Discount Decay Curve
 An operational analysis tracing the point of diminishing returns where promotional discount adjustments directly decay bottom-line profit performance.
-![Discount Decay Curve] (<img width="1600" height="1000" alt="Discount_decay_curve" src="https://github.com/user-attachments/assets/4b9f8293-c67b-44ea-b12b-2708c15e58e9" />
-)
+![Discount Decay Curve]: <img width="1200" height="600" alt="Discount_decay_curve" src="https://github.com/user-attachments/assets/4b9f8293-c67b-44ea-b12b-2708c15e58e9" />
 
 ---
 
@@ -66,10 +65,10 @@ In addition to the programmatic Python analysis, an enterprise-grade interactive
 
 ### Dashboard Preview:
 
-1.Superstore Performmance Dahboard: (<img width="1335" height="750" alt="Screenshot 2026-07-09 115908" src="https://github.com/user-attachments/assets/f18f194a-9ea4-45b8-9cf7-d7591ab3b20f" />
-)
-2. Inventory and Supplier Dashboard: (<img width="1352" height="748" alt="Screenshot 2026-07-09 120344" src="https://github.com/user-attachments/assets/d30a2168-f1e8-41df-a7e0-595d1395ccf4" />
-)
-3. Customer Insights Dashboard: (<img width="1290" height="733" alt="Screenshot 2026-07-09 121152" src="https://github.com/user-attachments/assets/736eeb98-6c49-4fcf-90a2-3249e7659ac5" />
-)
+1.Superstore Performmance Dahboard: <img width="1335" height="750" alt="Screenshot 2026-07-09 115908" src="https://github.com/user-attachments/assets/f18f194a-9ea4-45b8-9cf7-d7591ab3b20f" />
+
+2. Inventory and Supplier Dashboard: <img width="1352" height="748" alt="Screenshot 2026-07-09 120344" src="https://github.com/user-attachments/assets/d30a2168-f1e8-41df-a7e0-595d1395ccf4" />
+
+3. Customer Insights Dashboard: <img width="1290" height="733" alt="Screenshot 2026-07-09 121152" src="https://github.com/user-attachments/assets/736eeb98-6c49-4fcf-90a2-3249e7659ac5" />
+
 > 💡 **Note:** To interact with the live charts, filters, and slicers, download the `EDA Dashboard.pbix` file from the repository root and open it locally via Power BI Desktop.
